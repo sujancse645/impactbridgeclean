@@ -1,6 +1,6 @@
 "use client"
 
-import Particles from "react-tsparticles"
+import Particles from "@tsparticles/react"
 
 export default function ParticleBackground() {
 
